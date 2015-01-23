@@ -1,9 +1,5 @@
 # HaxePunk-Touch-Tap
-Proof of concept - Listen for Touch events
-
-# HaxePunk Mouse Input
-
-## Proof of concept - Listen for Mouse Events
+## Proof of concept - Listen for Touch events
 
 A great starting point for game projects and game jams.  
 See our other [HaxePunk Code Samples](https://github.com/GomaGames?query=HaxePunk)
