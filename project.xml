@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	<meta title="TouchTap" package="com.example.app" version="1.0.0" company="" />
+	<meta title="TouchTap" package="com.gomagames.HaxePunkTouchTap" version="1.0.0" company="GomaGames" />
 
  	<app file="Main" main="Main" path="bin" />
 
